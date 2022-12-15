@@ -1,10 +1,7 @@
-body {
-    max-width: 30rem;
-    margin: 0 auto;
-}
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
+    font-weight: bold;
 }
 body {
     font-family: 'Libre Bodoni', sans-serif;
@@ -12,6 +9,25 @@ body {
     max-width: 700px;
     margin: 0 auto;
     padding: 12px;
-    color: #291;
-    background-color: #000000;
+    color: #000000;
+    background-color: #00913a;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  img {
+    align-self: center;
+  }
+  ul {
+    font-weight: bold;
+    font-size: small;
+  }
+  footer {
+    text-align: center;
   }
